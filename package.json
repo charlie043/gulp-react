@@ -1,0 +1,21 @@
+{
+  "name": "charlie",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./hrms.js"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.1",
+    "react": "^0.12.2",
+    "react-bootstrap": "^0.16.1",
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-reactify": "^1.1.0",
+    "gulp-stylus": "^2.0.1",
+    "node-dev": "^2.6.1",
+    "reactify": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
